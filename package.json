@@ -1,5 +1,5 @@
 {
-  "name": "cra-advanced-template",
+  "name": "cra-template-ts-styled",
   "version": "1.0.1",
   "author": "Marcus Vinicius",
   "keywords": [
@@ -17,14 +17,14 @@
   "main": "template.json",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MarcwL22/cra-advanced-template"
+    "url": "https://github.com/MarcwL22/cra-template-ts-styled"
   },
   "license": "MIT",
   "engines": {
     "node": ">=8.10"
   },
   "bugs": {
-    "url": "https://github.com/MarcwL22/cra-advanced-template/issues"
+    "url": "https://github.com/MarcwL22/cra-template-ts-styled/issues"
   },
   "files": [
     "template",
