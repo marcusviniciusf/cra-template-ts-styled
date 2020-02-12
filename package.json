@@ -1,0 +1,33 @@
+{
+  "name": "cra-advanced-template",
+  "version": "1.0.1",
+  "author": "Marcus Vinicius",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "styled-system",
+    "styled-components",
+    "eslint",
+    "prettier",
+    "husky"
+  ],
+  "description": "CRA Typescript Template with Styled-System, Eslint and Prettier.",
+  "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MarcwL22/cra-advanced-template"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=8.10"
+  },
+  "bugs": {
+    "url": "https://github.com/MarcwL22/cra-advanced-template/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
