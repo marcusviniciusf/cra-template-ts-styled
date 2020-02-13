@@ -2,8 +2,7 @@
 
 ## How to
 
-<!-- ### `npx create-react-app` -->
-
+### `npx create-react-app <nameofproject> --template cra-template-ts-styled`
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). And Added some libs, like:
 
